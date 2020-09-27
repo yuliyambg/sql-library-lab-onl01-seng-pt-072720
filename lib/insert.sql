@@ -15,5 +15,7 @@ INSERT INTO characters (name, motto, species, author_id) VALUES
 ("Character One", "motto one", "cylon", 2), ("Character Two", "motto two", "human", 2),
 ("Character Three", "motto three", "cylon", 2), ("Character Four", "motto four", "cylon", 2);
 
+INSERT INTO subgenres (name) VALUES ("medieval"), ("space opera");
 
+INSERT INTO authors (name) VALUES ("George R. R. Martin"), ("Second Author");
  
