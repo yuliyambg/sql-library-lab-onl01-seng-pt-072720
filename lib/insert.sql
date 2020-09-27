@@ -14,4 +14,6 @@ INSERT INTO books (title, year, series_id) VALUES
 INSERT INTO characters (name, motto, species, author_id) VALUES
 ("Character One", "motto one", "cylon", 2), ("Character Two", "motto two", "human", 2),
 ("Character Three", "motto three", "cylon", 2), ("Character Four", "motto four", "cylon", 2);
+
+
  
